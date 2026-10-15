@@ -1,0 +1,4 @@
+com\studentmanagement\DBConnection.class
+com\studentmanagement\StudentDAO.class
+com\studentmanagement\Student.class
+com\studentmanagement\Main.class
